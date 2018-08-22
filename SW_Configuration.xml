@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-T230</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>T230DBT</CSCName>
+	<CSCVersion>0ANJ3</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/DBT/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

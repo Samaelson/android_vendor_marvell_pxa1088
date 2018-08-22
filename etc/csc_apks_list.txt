@@ -1,0 +1,2 @@
+/system/app/de.pizza.lib.apk
+/system/app/hrs_android_samsung_de_2014_keysource.apk
